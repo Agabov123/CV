@@ -34,7 +34,7 @@ Sales assistant
 - Languages: Russian (Native speaker), English (Fluent), German (Basic).
 - MS Office (Word, Excel, PowerPoint, Visio, Teams).
 - Hard skills: Python, HTML, Java, JavaScript, C, Ruby, VHDL, CSS, React Native, Preact.
-- Platforms: National Instruments, Multisim, Vivado, Paradigm.
+- Platforms: National Instruments, Wire Shark, Multisim, Vivado, Paradigm.
 
 #### Another Skill
 
@@ -64,4 +64,4 @@ Sales assistant
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Recently started looking into Game Development, particularly Unity developer platform. Up to now I have learnt how to create terrains and landscapes. 
