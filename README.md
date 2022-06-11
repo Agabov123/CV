@@ -10,20 +10,20 @@ Computer System Engineering undergraduate student at Queen Mary University of Lo
 | Use of drones for rescue missions | Our group researched into how drones could increase the efficiency of rescue missions | Research project  |    
 | E-waste | Research group project on E-waste - researching about modular phones and offering an alternative design | Research project |
 |       Year 2: Projects       |                   |                   |
-| Mobile Weather application | Mobile weather application targeted at at GCSE students that could be used by teachers for educational purposes. Along with wethaer forecast there were a lot of information about climate change and astronomy. This information is part of the syllabus for GCSE Physics. | preact |
+| Mobile Weather application | Mobile weather application targeted at at GCSE students that could be used by teachers for educational purposes. Along with wethaer forecast there were a lot of information about climate change and astronomy. This information is part of the syllabus for GCSE Physics. | Preact |
 | Cryptocurrency wallet | Mobile application that currently work on Ethereum TestNet. This application allows you creating new account, logging into already existing account, transfer cryptocurrency and view transaction history. The following steps that are to be implemented include adding NFT gallery and allow deposit and withdraw to a bank card. | React native | 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Enter Engineering Pte. Ltd., Uzbekistan** (August 2019 to August 2019)  
+Intern
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Gained experience by shadowing engineers at the working site of Humo Arena.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Islamic Relief (volunteering)** (October 2018 to April 2019) 
+Sales assistant
 
-- Any experience relevent to software development
+- Gained experience in operating the till, managed the stock, item display and customer support. 
 
 ## Skills
 
@@ -38,9 +38,12 @@ Consider skills relevent to software development. Then consider your best skills
 -What did you do? (action)
 
 -What was the result?
-
+- Computer System Engineering. Completed Year 2.
+- Taken ICT and Computer Science for GCSE.
 
 #### This Skill
+- Languages: Russian (Native speaker), English (Fluent).
+- MS Office (Word, Excel, PowerPoint, Visio, Teams)
 
 - Experience
 - Achievements
