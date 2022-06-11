@@ -1,13 +1,17 @@
-## Your Name
+## Arsenii Gabov
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Computer System Engineering undergraduate student at Queen Mary University of London seeking a career in software engineering. I am looking for an opportunity to enhance relevant technical and transferable skills developed through academic study. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+|       Year 1: Projects       |                   |                   |
+| Use of drones for rescue missions | Our group researched into how drones could increase the efficiency of rescue missions | Research project  |    
+| E-waste | Research group project on E-waste - researching about modular phones and offering an alternative design | Research project |
+|       Year 2: Projects       |                   |                   |
+| Mobile Weather application | Mobile weather application targeted at at GCSE students that could be used by teachers for educational purposes. Along with wethaer forecast there were a lot of information about climate change and astronomy. This information is part of the syllabus for GCSE Physics. | preact |
+| Cryptocurrency wallet | Mobile application that currently work on Ethereum TestNet. This application allows you creating new account, logging into already existing account, transfer cryptocurrency and view transaction history. The following steps that are to be implemented include adding NFT gallery and allow deposit and withdraw to a bank card. | React native | 
 
 ## Work Experience
 
