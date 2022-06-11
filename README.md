@@ -27,40 +27,24 @@ Sales assistant
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
 - Computer System Engineering. Completed Year 2.
 - Taken ICT and Computer Science for GCSE.
 
 #### This Skill
-- Languages: Russian (Native speaker), English (Fluent).
-- MS Office (Word, Excel, PowerPoint, Visio, Teams)
-
-- Experience
-- Achievements
-- Evidence (STAR)
+- Languages: Russian (Native speaker), English (Fluent), German (Basic).
+- MS Office (Word, Excel, PowerPoint, Visio, Teams).
+- Hard skills: Python, HTML, Java, JavaScript, C, Ruby, VHDL, CSS, React Native, Preact.
+- Platforms: National Instruments, Multisim, Vivado, Paradigm.
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+- I have learnt MS Office and basic level of German during my GCSE's at The Leys school. 
+- Hard skills and working with platforms I came across during my studies at Queen Mary University of London. Some of the skills such as National Instruments Lultisim, Preact, Vivado and C were gained as parts of modules Digital System design, Signals and Information, Graphical User Interfaces and C Programming. Other skills were obtained whilst working on different projects. Best examples are React Native, JavaScript, HTML and CSS, all of the listed above I have learnt while working on Cryptocurrency project.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2022 to September 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -69,15 +53,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Queen Mary University of London (September 2020 to Present)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Computer System Engineering
+- 2:1 Expected
 
-#### Any other qualifications
+#### Mander Portman Woodward College London (September 2019 to June 2020)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A level: Chemistry (C), Physics (B), Mathematics (A), Russian (A*)
 
 ## Hobbies
 
