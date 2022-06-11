@@ -9,7 +9,7 @@ Computer System Engineering undergraduate student at Queen Mary University of Lo
 |       Year 1: Projects       |                   |                   |
 | Use of drones for rescue missions | Our group researched into how drones could increase the efficiency of rescue missions | Research project  |    
 | E-waste | Research group project on E-waste - researching about modular phones and offering an alternative design | Research project |
-|       Year 2: Projects       |                   |                   |
+|      Year 2: Projects       |                   |                   |
 | Mobile Weather application | Mobile weather application targeted at at GCSE students that could be used by teachers for educational purposes. Along with wethaer forecast there were a lot of information about climate change and astronomy. This information is part of the syllabus for GCSE Physics. | Preact |
 | Cryptocurrency wallet | Mobile application that currently work on Ethereum TestNet. This application allows you creating new account, logging into already existing account, transfer cryptocurrency and view transaction history. The following steps that are to be implemented include adding NFT gallery and allow deposit and withdraw to a bank card. | React native | 
 
