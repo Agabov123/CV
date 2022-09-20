@@ -45,13 +45,15 @@ Sales assistant
 ## Education
 
 #### Makers Academy (May 2022 to September 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+
+- Intensive 4 months learning cource that introduced me to a number of languages, working with databases and working on group projects including different frameworks that could be used. 
+- Worked onsite and remotely, frequently used paring in order to problemsolve effeciently, requiring teamwork and communication as well as completeting some prohjects working solo.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, HTML, CSS
+- Express, node.js, Reazct Native 
+- MongoDB, PosgreSQL
 
 #### Queen Mary University of London (September 2020 to Present)
 
