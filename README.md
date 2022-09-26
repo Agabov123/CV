@@ -36,7 +36,7 @@ Sales assistant
 #### This Skill
 - Languages: Russian (Native speaker), English (Fluent), German (Basic).
 - MS Office (Word, Excel, PowerPoint, Teams).
-- Hard skills: Python, HTML, Java, JavaScript, C, Ruby, CSS, React Native, Preact.
+- Hard skills: HTML, Java, JavaScript, Ruby, CSS, React Native, Preact.
 - Platforms: National Instruments, Wire Shark, Multisim, Vivado, Paradigm.
 
 #### Another Skill
