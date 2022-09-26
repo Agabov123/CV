@@ -12,7 +12,10 @@ Computer System Engineering undergraduate student at Queen Mary University of Lo
 |      Year 2: Projects       |                   |                   |
 | Mobile Weather application | Mobile weather application targeted at at GCSE students that could be used by teachers for educational purposes. Along with wethaer forecast there were a lot of information about climate change and astronomy. This information is part of the syllabus for GCSE Physics. | Preact |
 | Cryptocurrency wallet | Mobile application that currently work on Ethereum TestNet. This application allows you creating new account, logging into already existing account, transfer cryptocurrency and view transaction history. The following steps that are to be implemented include adding NFT gallery and allow deposit and withdraw to a bank card. | React native | 
-
+|       Makers projects       |                   |                   |        
+|       MakersBnB      |       AirBnb clone, goup project: https://github.com/shaunywho/MakersBNB.git            |      Ruby, PostgreSQl         |
+|       Acebook      |      Facenook clone, group project: https://github.com/karolina-codes/acebook-node-milton.git  |     JavaScript, Node.js, MongoDB, Jest, Heroku         |
+|       Ratify      |       Application for exotic pet owners: https://github.com/EvSivtsova/ratify.git         |   React Native, JavaScript, Node.js, MongoDB, Express.js         |
 ## Work Experience
 
 **Enter Engineering Pte. Ltd., Uzbekistan** (August 2019 to August 2019)  
@@ -53,7 +56,7 @@ Sales assistant
 - Agile/XP
 - Ruby, Rails, JavaScript, HTML, CSS
 - Express, node.js, Reazct Native 
-- MongoDB, PosgreSQL
+- MongoDB, PostgreSQL
 
 #### Queen Mary University of London (September 2020 to Present)
 
