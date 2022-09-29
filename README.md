@@ -16,7 +16,17 @@ Computer System Engineering undergraduate student at Queen Mary University of Lo
 |       MakersBnB      |       AirBnb clone, goup project: https://github.com/shaunywho/MakersBNB.git            |      Ruby, PostgreSQl         |
 |       Acebook      |      Facenook clone, group project: https://github.com/karolina-codes/acebook-node-milton.git  |     JavaScript, Node.js, MongoDB, Jest, Heroku         |
 |       Ratify      |       Application for exotic pet owners: https://github.com/EvSivtsova/ratify.git         |   React Native, JavaScript, Node.js, MongoDB, Express.js         |
-## Work Experience
+## Experience
+#### Makers Academy (May 2022 to September 2022)
+
+- Intensive 4 months learning cource that introduced me to a number of languages, working with databases and working on group projects including different frameworks that could be used. 
+- Worked onsite and remotely, frequently used paring in order to problemsolve effeciently, requiring teamwork and communication as well as completeting some prohjects working solo.
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript, HTML, CSS
+- Express, node.js, Reazct Native 
+- MongoDB, PostgreSQL
 
 **Enter Engineering Pte. Ltd., Uzbekistan** (August 2019 to August 2019)  
 Intern
@@ -46,17 +56,6 @@ Sales assistant
 
 
 ## Education
-
-#### Makers Academy (May 2022 to September 2022)
-
-- Intensive 4 months learning cource that introduced me to a number of languages, working with databases and working on group projects including different frameworks that could be used. 
-- Worked onsite and remotely, frequently used paring in order to problemsolve effeciently, requiring teamwork and communication as well as completeting some prohjects working solo.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, HTML, CSS
-- Express, node.js, Reazct Native 
-- MongoDB, PostgreSQL
 
 #### Queen Mary University of London (September 2020 to Present)
 
