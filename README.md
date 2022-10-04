@@ -23,7 +23,7 @@ Computer System Engineering undergraduate student at Queen Mary University of Lo
 
 - Worked onsite and remotely, frequently used paring in order to problemsolve effeciently, requiring teamwork and communication as well as completeting some projects working solo.
 
-- During my. projects I have used Agile programing with my group. I think it was very important because with every project we have did during the course we have tried learning something new like a different database or framework. Agile approach was best suited for our project as it allowed us to be very flexible; we could work on bits of project at a time and add new ideas into out plan and later implement them with the course of the project.
+- During group projects I have used Agile programing with my group. I think it was very important because with every project we have did during the course we have tried learning something new like a different database or framework. Agile approach was best suited for our project as it allowed us to be very flexible; we could work on bits of project at a time and add new ideas into out plan and later implement them with the course of the project.
 
 - For the majority of the projects that I have worked on as a Maker I have tried to use Test Driven Development. I think it was essential do write failing test first and then the code because thiswas the point where plan that was written on paper tured into code. It was also important because haing converted user stories into failing test first and then writing functional code to pass the test meant that functional code would be specific to user stories that our team came up with.
 
