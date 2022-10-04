@@ -1,6 +1,6 @@
 ## Arsenii Gabov
 
-Computer System Engineering undergraduate student at Queen Mary University of London seeking a career in software engineering. I am looking for an opportunity to enhance relevant technical and transferable skills developed through academic study. 
+Computer System Engineering undergraduate student at Queen Mary University of London seeking a career in software engineering. I am looking for an opportunity to enhance relevant technical and transferable skills developed through academic study. The reason why I want to work as a Software Engineering is if you have an idea you just need to open computer and start coding and this could be anything you can think of. Also a sense of accomplishment that you experience once you have finished the project.
 
 ## Projects
 
@@ -20,10 +20,15 @@ Computer System Engineering undergraduate student at Queen Mary University of Lo
 #### Makers Academy (May 2022 to September 2022)
 
 - Intensive 4 months learning cource that introduced me to a number of languages, working with databases and working on group projects including different frameworks that could be used. 
-- Worked onsite and remotely, frequently used paring in order to problemsolve effeciently, requiring teamwork and communication as well as completeting some prohjects working solo.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+
+- Worked onsite and remotely, frequently used paring in order to problemsolve effeciently, requiring teamwork and communication as well as completeting some projects working solo.
+
+- During my. projects I have used Agile programing with my group. I think it was very important because with every project we have did during the course we have tried learning something new like a different database or framework. Agile approach was best suited for our project as it allowed us to be very flexible; we could work on bits of project at a time and add new ideas into out plan and later implement them with the course of the project.
+
+- For the majority of the projects that I have worked on as a Maker I have tried to use Test Driven Development. I think it was essential do write failing test first and then the code because thiswas the point where plan that was written on paper tured into code. It was also important because haing converted user stories into failing test first and then writing functional code to pass the test meant that functional code would be specific to user stories that our team came up with.
+
+Technologies learned during the course:
+
 - Ruby, Rails, JavaScript, HTML, CSS
 - Express, node.js, Reazct Native 
 - MongoDB, PostgreSQL
@@ -36,21 +41,16 @@ Intern
 **Islamic Relief (volunteering)** (October 2018 to April 2019) 
 Sales assistant
 
-- Gained experience in operating the till, managed the stock, item display and customer support. 
+- Gained experience in operating the till, managed the stock, item display and customer support. During time spent in Islamic Relief I have developed good communication skills which I have used doing custoper support. 
 
 ## Skills
 
 - Computer System Engineering. Completed Year 2.
 - Taken ICT and Computer Science for GCSE.
-
-#### This Skill
 - Languages: Russian (Native speaker), English (Fluent), German (Basic).
 - MS Office (Word, Excel, PowerPoint, Teams).
 - Hard skills: HTML, Java, JavaScript, Ruby, CSS, React Native, Preact.
 - Platforms: National Instruments, Wire Shark, Multisim, Vivado, Paradigm.
-
-#### Another Skill
-
 - I have learnt MS Office and basic level of German during my GCSE's at The Leys school. 
 - Hard skills and working with platforms I came across during my studies at Queen Mary University of London. Some of the skills such as National Instruments Lultisim, Preact, Vivado and C were gained as parts of modules Digital System design, Signals and Information, Graphical User Interfaces and C Programming. Other skills were obtained whilst working on different projects. Best examples are React Native, JavaScript, HTML and CSS, all of the listed above I have learnt while working on Cryptocurrency project.
 
