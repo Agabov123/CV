@@ -19,7 +19,7 @@ Computer System Engineering undergraduate student at Queen Mary University of Lo
 ## Experience
 #### Makers Academy (May 2022 to September 2022)
 
-- Intensive 4 months learning cource that introduced me to a number of languages, working with databases and working on group projects including different frameworks that could be used. 
+- Intensive 4 months learning course that introduced me to a number of languages, working with databases and working on group projects including different frameworks that could be used. 
 
 - Worked onsite and remotely, frequently used paring in order to problemsolve effeciently, requiring teamwork and communication as well as completeting some projects working solo.
 
