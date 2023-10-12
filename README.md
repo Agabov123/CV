@@ -59,8 +59,7 @@ Sales assistant
 
 #### Queen Mary University of London (September 2020 to Present)
 
-- BSc Computer System Engineering
-- 2:1 Expected
+- 2:1 in BEng Computer System Engineering
 
 #### Mander Portman Woodward College London (September 2019 to June 2020)
 
